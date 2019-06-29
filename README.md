@@ -4,8 +4,8 @@ About
 
 Uses the Binary Search Tree data structure as a base to implement:
 
-* 1. Counting the number of leaves in BST via recursion
-* 2. Check if tree is height balanced via non-tail recursion
+* Counting the number of leaves in BST via recursion
+* Check if tree is height balanced via non-tail recursion
    
 -------------
 Configuration
