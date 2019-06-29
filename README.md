@@ -18,12 +18,12 @@ Recommended Operating System: Linux
 --------------------------
 1. Make the files utilising makefile
    **Linux:** 
-              *make*
+              ..* make
               
 2. Run the programs
    **Linux:** 
-              * ./number_of_leaves_test
-              * ./is_balanced_test
+              ..* ./number_of_leaves_test
+              ..* ./is_balanced_test
            
 
 -------------
